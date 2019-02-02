@@ -31,7 +31,7 @@ Request to the service
 
 to get the value from the service
 
-	{"value":"10"}
+    {"value":"20"}
 
 ### References
 
