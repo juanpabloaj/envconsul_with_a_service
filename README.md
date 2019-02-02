@@ -35,4 +35,5 @@ to get the value from the service
 
 ### References
 
+* http://juanpabloaj.com/2019/02/01/distribuir-variables-con-envconsul/
 * https://github.com/hashicorp/envconsul
